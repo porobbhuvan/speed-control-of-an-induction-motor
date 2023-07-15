@@ -11,8 +11,6 @@ Throughout this project, we will delve into the fundamental principles of induct
 By comprehensively understanding speed control using a PID controller for induction motors through MATLAB simulation, we can optimize the motor's performance, enhance energy efficiency, and improve overall system reliability. The insights gained from this project can be directly applied to real-world applications, empowering engineers and researchers to design and implement efficient speed control systems for a wide range of industrial motor-driven processes.
 
 ## Repository Structure
-*docs*: This directory contains the documentation and additional resources related to the project.
-
 *speedcontrolusingnormalinverter*: This file contains the MATLAB simulation of speed control using a PID controller.
 
 *data*: This directory stores any data files used in the simulations or generated during the project.
