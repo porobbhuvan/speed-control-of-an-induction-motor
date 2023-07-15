@@ -13,7 +13,7 @@ By comprehensively understanding speed control using a PID controller for induct
 ## Repository Structure
 *docs*: This directory contains the documentation and additional resources related to the project.
 
-*src*: This directory contains the MATLAB source code files for simulating speed control using a PID controller.
+*speedcontrolusingnormalinverter*: This file contains the MATLAB simulation of speed control using a PID controller.
 
 *data*: This directory stores any data files used in the simulations or generated during the project.
 
